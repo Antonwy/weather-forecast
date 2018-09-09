@@ -1,8 +1,8 @@
 {
-  "name": "WeatherForecast",
+  "name": "weather-forecast",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://antonwy.github.io/WeatherForecast",
+  "homepage": "http://antonwy.github.io/weather-forecast",
   "dependencies": {
     "google-map-react": "^1.0.6",
     "lodash": "^4.17.10",
